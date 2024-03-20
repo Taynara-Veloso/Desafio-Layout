@@ -55,7 +55,6 @@ p {
 
   .links {
     padding-top: 16px;
-    padding-bottom: 36px;
   }
 
   a {
@@ -67,6 +66,13 @@ p {
 
   a + a {
     margin-left: 42px;
+  }
+
+  #icon-Github {
+    color: var(--Neon-Pink);
+    display: flex;
+    justify-content: end;
+    font-size: 60px;
   }
 
   #img-footer {
